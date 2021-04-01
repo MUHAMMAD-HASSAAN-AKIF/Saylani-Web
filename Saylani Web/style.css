@@ -1,0 +1,809 @@
+@media only screen and (max-width: 1000px){
+    body{max-width: 100px;}
+}
+
+
+
+
+
+body{
+    padding: 0px;
+    margin: 0px;   
+}
+
+
+.fb{
+    background-color: rgb(98, 82, 240);
+
+    
+}
+
+
+
+
+.app{
+   position: relative;
+   left: 150px;
+   top: 17px;
+   width: fit-content;
+}
+
+
+img{
+    margin: 10px;
+position: relative;
+left: 100px;
+top: 10px;
+}
+
+.top{
+    display: inline;
+    position: relative;
+left: 450px;
+bottom: 10px;
+color: white;
+
+}
+
+
+
+
+.btn-1{
+position: relative;
+left: 550px;
+
+}
+
+
+button{
+    position: relative;
+    left: 250px;
+bottom: 10px;
+padding: 5px;
+}
+
+.home{
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 8px;
+    background-color: rgb(98, 82, 240);
+    color: white;
+    position: relative;
+    left: 100px;
+    bottom: 18px;
+}
+
+
+.about{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 8px;
+    position: relative;
+    left: 100px;
+    bottom: 18px;
+    background-color: white;
+    border: white;  
+}
+
+
+.about:hover {
+    background-color:rgb(98, 82, 240);
+  }
+
+/* img{
+    
+} */
+
+
+.saylani{
+    padding: 0;
+    position: relative;
+    left: 1px;
+}
+
+
+.alvi{
+    background-color:rgb(98, 82, 240);
+    color: white;
+    text-align: center;
+    height: 30px;
+    padding-top: 8px;
+}
+
+
+
+
+    
+/* .title-icon {
+    margin: 0 auto;
+    
+    
+} */
+
+
+
+
+
+
+.title-icon{
+    margin-left: 545px;
+    margin-top: -80px;
+
+}
+
+
+.line{
+    
+    position: relative;
+    top: 65px ;
+    left: 42px;
+    color: green;
+max-width: 160px;    
+    
+}
+
+
+  
+
+
+  .line2{
+      position: relative;
+      bottom: 44px;
+      left:  160px;
+max-width: 160px;  
+color: green;  
+}
+
+
+
+.intro{
+    margin: 0px 120px 0px 120px;
+    text-align: justify;
+}
+
+
+
+
+
+.div{
+background-color:rgb(98, 82, 240);
+color: white;
+height: 300px;
+padding-left: 60
+px;
+
+}
+
+
+
+
+
+
+
+.lack{
+margin-left: 80px;
+
+
+}
+
+
+
+
+
+
+.d{
+
+    display: inline-flex;     
+}
+
+
+
+
+
+    .dv{
+        /* display: inline-flex; */
+        padding-right: 300px;    
+    }
+    
+
+    .maa{
+        max-width: 100px;
+   margin-left: 300px;
+
+    }
+    
+    .mom{
+        max-width: 100px;
+        margin-left: 180px;
+    }
+    
+
+    .me{
+        max-width: 100px;
+        margin-left: 220px;
+    }
+    
+
+
+.www{
+   max-width: 100px;
+margin-left: 200px;
+
+}
+
+
+.eee{
+    max-width: 100px;
+margin-left: 20px;
+
+}
+
+
+
+.rrr{
+    max-width: 100px;
+    margin-left: 250px;
+    
+}
+
+
+
+.ba{
+    max-width: 100px;
+    margin-left: 50px;
+}
+
+
+.med{
+    max-width: 100px;
+    margin-left: 30px;
+}
+
+
+.edu{
+
+    max-width: 100px;
+    margin-left: 100px;
+}
+
+
+.green{
+color: rgb(47, 208, 47);
+
+}
+
+
+.pera{
+
+    color: rgb(98, 82, 240);
+    font-weight:bolder;
+    font-size: 40px;
+}
+
+.aaa{
+
+    color:rgb(47, 208, 47) ;
+    font-weight: bolder;
+    position: relative;
+    right: 11px;
+    font-size: 40px;
+}
+
+.we{
+    color: rgb(98, 82, 240);    
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.are{
+    
+    color: green;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.ppp{
+    margin-left: 545px;
+    margin-top: -50px;
+
+}
+
+
+.doing{
+margin: 50px;
+
+}
+.fare{
+    max-width: 100px;
+    margin-left: 360px;
+}
+
+
+.hass{
+    background-color: rgb(235, 231, 231);
+    margin-bottom:50px ;
+    margin-top: -50px;
+}
+
+.abd{
+
+    padding-top: 50px;
+    margin-bottom: 90px;
+}
+
+
+.san{
+    background-color: rgb(235, 231, 231);   
+
+}
+
+
+
+.inline{
+    display: inline-flex;
+margin-left: 240px;
+    
+}
+
+.outline{
+    display: inline-flex;
+    margin-left: 210px;
+}
+
+
+
+
+
+
+.one{
+    max-width: 10px;
+    /* margin-left: 180px; */
+    box-shadow: 1px 8px 20px 1px;
+    background-color: white;
+    padding-left: 137px;
+    padding-right: 137px;
+     padding-top: 17px;
+     margin-right: 30px;
+}
+   
+
+.two{
+    max-width: 10px;
+    /* margin-left: 180px; */
+    box-shadow: 1px 8px 20px 1px;
+    background-color: white;
+    padding-left: 137px;
+    padding-right: 137px;
+     padding-top: 17px;
+
+}
+
+.three{
+    max-width: 10px;
+    /* margin-left: 180px; */
+    box-shadow: 1px 8px 20px 1px;
+    background-color: white;
+    padding-left: 137px;
+    padding-right: 137px;
+     padding-top: 17px;
+     margin-left: 30px;
+    
+}
+
+
+
+.four{
+    max-width: 10px;
+    /* margin-left: 180px; */
+    box-shadow: 1px 8px 20px 1px;
+    background-color: white;
+    padding-left: 137px;
+    padding-right: 137px;
+     padding-top: 17px;
+     margin-left: 30px;
+     margin-top: 30px;
+}
+
+
+
+.five{
+    max-width: 10px;
+    /* margin-left: 180px; */
+    box-shadow: 1px 8px 20px 1px;
+    background-color: white;
+    padding-left: 137px;
+    padding-right: 137px;
+     padding-top: 17px;
+     margin-left: 30px;
+     margin-top: 30px;
+}
+
+
+
+
+.six{
+    max-width: 10px;
+    /* margin-left: 180px; */
+    box-shadow: 1px 8px 20px 1px;
+    background-color: white;
+    padding-left: 137px;
+    padding-right: 137px;
+     padding-top: 17px;
+     margin-left: 30px;
+     margin-top: 30px;
+      margin-top: 30px;
+}
+
+.h{
+    text-align:center;
+    position: relative;
+    right: 30px;
+
+}
+
+
+.how{
+    position: relative;
+    right: 30px;
+}
+
+.lorem{
+max-width: 100px;
+margin: 0 !important;
+position:relative !important;
+left: -45px !important;
+top: 0 !important;
+}
+
+
+
+.ipsum{
+    max-width: 100px;
+    margin: 0 !important;
+    position:relative !important;
+    left: -45px !important;
+    top: 0 !important;
+}
+
+.pant{
+    text-align:center;
+    position: relative;
+    right: 50px;
+}
+
+
+
+
+.tribune{
+    background-color: white;
+    /* width: fit-content; */
+}
+
+
+.mission::before {
+
+    content: "__";
+    color:green;
+    font-size: 50px; 
+    position: relative;
+    top: 70px;
+
+}
+
+
+.mission{
+    position: relative;
+left: 230px;
+color:  rgb(98, 82, 240);
+max-width: fit-content;
+}
+
+.event{
+position: relative;
+bottom: 130px;
+left: 865px;
+color:  rgb(98, 82, 240);
+max-width: fit-content;
+}
+
+
+.event::before{
+    content: "__";
+    color:green;
+    font-size: 50px; 
+    position: relative;
+    top: 70px;
+}
+
+
+
+.soci{
+    position: relative;
+bottom: 230px;
+left: 580px;
+max-width: fit-content;
+background-color: rgb(235, 231, 231);   
+padding: 0px 20px 0px 80px;
+box-shadow: 1px 8px 20px 1px;
+}
+
+
+
+.hep{
+    position: relative;
+    left: 250px;
+    bottom: 115px;
+    max-width: fit-content;
+    background-color: rgb(235, 231, 231);   
+    padding: 0px 80px 0px 80px;
+    box-shadow: 1px 8px 20px 1px;
+}
+.it{
+    position: relative;
+    left: 250px;
+    bottom: 465px;
+    max-width: fit-content;
+    background-color: rgb(235, 231, 231);   
+   padding: 0px 63px 0px 80px;
+   box-shadow: 1px 8px 20px 1px;
+}
+
+
+
+.thar{
+    position: relative;
+    bottom: 580px;
+    left: 580px;
+    max-width: fit-content;
+    background-color: rgb(235, 231, 231);   
+    padding: 0px 50px 0px 80px;
+    box-shadow: 1px 8px 20px 1px;
+}
+
+.ghar{
+    position: relative;
+    left: -80px;
+    top: 23px;
+
+}
+
+.sis{
+    position: relative;
+    left: -80px;
+    top: 23px;
+}
+
+
+
+.swdr{
+    position: relative;
+    bottom: 330px;
+    left: 860px;
+    max-width: 200px; 
+    text-align: justify;
+}
+
+
+
+
+
+
+.lit{
+    position: relative;
+    left: -80px;
+    top: 23px;
+
+}
+
+
+.park{
+    position: relative;
+    left: -80px;
+    top: 23px;
+}
+
+
+.same{
+   position: relative;
+   bottom: 35px; 
+}
+
+
+.pti{
+    position: relative;
+    top: 30px;
+}
+
+
+.ati{
+    position: relative;
+    top: 30px;
+}
+
+
+
+.mh{
+    color: rgb(98, 82, 240);
+}
+
+
+
+.ery{
+    color:green; 
+    position: relative;
+    right: 59px;
+}
+
+.circle{
+    position: relative;
+    left: -5px;
+}
+
+
+
+
+.mh::before{
+    content: "__";
+    color:green;
+    font-size: 50px; 
+    position: relative;
+    top: 70px;
+    left: 100px;
+}
+
+
+
+.ery::before{
+    content: "__";
+    color:green;
+    font-size: 50px; 
+    position: relative;
+    top: 70px;
+    left: 120px;
+}
+
+
+.agegal {
+    text-align: center;
+    background-color: white;
+    position: relative;
+    bottom: 266px;
+    
+}
+
+
+
+
+
+.veer{
+    position: relative;
+    right: 100px;
+    
+}
+
+
+.phone{
+    position: relative;
+    left: 10px;
+    top: 14px;
+}
+
+
+.world{
+    position: relative;
+    left: 10px;
+    top: 14px;
+}
+
+
+.message{
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+
+
+.loc{
+position: relative;
+left: 70px;
+color: #666666;
+
+width: fit-content;
+}
+
+
+.ending{
+    background-color: rgb(52, 50, 50);
+    padding: 100px 0px 50px 0px;
+}
+
+
+.all{
+    padding: 5px;
+}
+
+
+
+.over{
+    margin: 10px;
+}
+
+
+
+
+.sp{
+    padding-left: 15px;
+}
+
+
+
+.ful{
+    position: relative;
+    bottom: 330px;
+    width: fit-content;
+    left: 500px;
+    color: white;
+}
+
+
+
+.ful::after{
+    content: "___";
+    color:green;
+    font-size: 40px; 
+   position: relative;
+   right: 100px;
+}
+
+
+
+.us{
+    position: relative;
+    bottom: 375px;
+    left: 800px;
+    color:white;
+    width: fit-content;
+
+}
+
+
+.fa {
+   position: relative;
+   bottom: 350px;
+   left: 770px;
+}
+
+.fab{
+padding: 3px;
+background-color: rgb(98, 82, 240);
+
+}
+
+
+.copy{
+    background-color: rgb(98, 82, 240);
+    color: white;
+  padding: 1px;
+
+}
+
+
+.cat{
+    position: relative;
+    left: 80px;
+    width: fit-content;
+}
+
+
+
+
+
+
+
+
+
+
+
